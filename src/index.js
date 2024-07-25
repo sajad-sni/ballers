@@ -1,16 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
-import '@fortawesome/fontawesome-free/css/all.min.css';
-import reportWebVitals from './reportWebVitals';
-import Contact from './Contact';
-import CoachPage from './CoachPage';
-import DailyAccess from './DailyAccess';
-import KidsClub from './KidsClub';
-import LogIn from './LogIn';
-import SignIn from './SignIn';
-import ProfilePage from './ProfilePage';
+import App from './ballers/App';
+import './ballers/@fortawesome/fontawesome-free/css/all.min.css';
+import reportWebVitals from './ballers/reportWebVitals';
+import Contact from './ballers/Contact';
+import CoachPage from './ballers/CoachPage';
+import DailyAccess from './ballers/DailyAccess';
+import KidsClub from './ballers/KidsClub';
+import LogIn from './ballers/LogIn';
+import SignIn from './ballers/SignIn';
+import ProfilePage from './ballers/ProfilePage';
 
 
 import {
@@ -26,35 +26,35 @@ const router = createBrowserRouter([
     element: <App/>,
   },
   {
-    path: "Contact",
+    path: "/ballers/Contact",
     element: <Contact/>,
   },
   {
-    path: "CoachPage",
+    path: "/ballers/CoachPage",
     element: <CoachPage/>,
   },
   {
-    path: "DailyAccess",
+    path: "/ballers/DailyAccess",
     element: <DailyAccess/>,
   },
   {
-    path: "KidsClub",
+    path: "/ballers/KidsClub",
     element: <KidsClub/>,
   },
   {
-    path: "LogIn",
+    path: "/ballers/LogIn",
     element: <LogIn/>,
   },
   {
-    path: "SignIn",
+    path: "/ballers/SignIn",
     element: <SignIn/>,
   },
   {
-    path: "SignIn",
+    path: "/ballers/SignIn",
     element: <SignIn/>,
   },
   {
-    path: "ProfilePage",
+    path: "/ballers/ProfilePage",
     element: <ProfilePage/>,
   },
 

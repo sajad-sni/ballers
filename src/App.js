@@ -1,9 +1,9 @@
 
-import './App.css';
-import FooterOne from './FooterOne';
-import FooterTwo from './FooterTwo';
-import HomePage from './HomePage';
-import NavigationBar from './NavigationBar';
+import './ballers/App.css';
+import FooterOne from './ballers/FooterOne';
+import FooterTwo from './ballers/FooterTwo';
+import HomePage from './ballers/HomePage';
+import NavigationBar from './ballers/NavigationBar';
 //import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
 function App() {
