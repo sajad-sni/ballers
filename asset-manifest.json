@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ballers/static/css/main.2231977e.css",
-    "main.js": "/ballers/static/js/main.8edd03c3.js",
-    "static/js/453.7df6cb24.chunk.js": "/ballers/static/js/453.7df6cb24.chunk.js",
+    "main.js": "/ballers/static/js/main.9f0eb06c.js",
+    "static/js/453.69f3745b.chunk.js": "/ballers/static/js/453.69f3745b.chunk.js",
     "static/media/gym.png": "/ballers/static/media/gym.cb69f24df0fc1cd073aa.png",
     "static/media/pool.png": "/ballers/static/media/pool.9960165153f7e868886e.png",
     "static/media/court2.png": "/ballers/static/media/court2.5726da5ebbcc0459de53.png",
@@ -27,11 +27,11 @@
     "static/media/fa-v4compatibility.woff2": "/ballers/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/ballers/index.html",
     "main.2231977e.css.map": "/ballers/static/css/main.2231977e.css.map",
-    "main.8edd03c3.js.map": "/ballers/static/js/main.8edd03c3.js.map",
-    "453.7df6cb24.chunk.js.map": "/ballers/static/js/453.7df6cb24.chunk.js.map"
+    "main.9f0eb06c.js.map": "/ballers/static/js/main.9f0eb06c.js.map",
+    "453.69f3745b.chunk.js.map": "/ballers/static/js/453.69f3745b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2231977e.css",
-    "static/js/main.8edd03c3.js"
+    "static/js/main.9f0eb06c.js"
   ]
 }
